@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below 
+## Website Contents
 
-Hey!
-I am Sachi 
+1. Index
